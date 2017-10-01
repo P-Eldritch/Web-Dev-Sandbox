@@ -1,2 +1,1 @@
-bits and pieces &
-grains of sand
+just some grains of sand one day to become a castle wall
