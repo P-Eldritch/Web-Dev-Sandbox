@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- 	IKALTI IKONIUXA -->
+	<title>The Golden Pill: Restore and Preserve Your Vitality</title>
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<meta name="description" content="clinically proven solution to health problems from anxiety to blood pressure abnormalities. Lose weigth to prevent many forms of cancer.">
+	<meta name="keywords" content="medicine for anxiety, medicine for weigth loss, medicine for headache, buy medicine online, buy pills online, over the counter, herbal medicine, not tested on animals, golden pill, anxiety, strengthten immunity, high blood pressure,vegan medicine, gluten free medicine, natural supplement, doctors recommend, prevent cancer, holistic medicine, alterative medicine, natural medicine,clinically proven">
+	<link rel="stylesheet" type="text/css" href="indexiukas2.css">
+
+</head>
+<body>
+
+<header class="header">
+
+			<a class="home-logo" href="indexiukas2.html">Golden</a>
+			<nav class="main-nav">
+				<ul>
+					<li><a href="#about">About</a></li>
+					<li><a href="#features">Features</a></li>
+					<li><a href="#treatments">Treatments</a></li>
+					<li><a href="#reviews">Reviews</a></li>
+					<li><a href="#contact">Contact</a></li> 
+				</ul>
+			</nav>
+</header>
+
+			<section class="header-section">
+				<div class="background-image"> </div>
+				<div class="header-content">
+					<h2>be whoever you want to be</p>		
+					<h1>The Golden Pill</h1>
+					<div class="butt-div">
+						<a class="header-button" href="#about">Tell me more</a>
+					</div>
+				</div>
+			</section>
+
+<!-- gal new page daryt? -->
+<section class="about-section">
+	<h2 id="about">About</h2>
+	<p>
+		<span>A totally new approach to health issues. </span>
+		Consciousness ship of the imagination, muse about! A billion trillion from which we spring Sea of Tranquility! Laws of physics. Hundreds of thousands radio telescope vanquish the impossible something incredible is waiting to be known Jean-Francois Champollion, concept of the number one muse about. Rich in mystery. Hundreds of thousands of brilliant syntheses, descended from astronomers extraordinary claims require extraordinary evidence preserve and cherish that pale blue dot dispassionate extraterrestrial observer. Extraplanetary and billions upon billions upon billions upon billions upon billions upon billions upon billions.
+	</p>	
+</section>
+
+
+<section class="features-section">
+	<h2 id="features">Features</h2>
+	<p class="features-text">One pill to rule them all</p>
+
+	<!-- remember iconeles -->
+	<article>
+		<h3 class="natural-feature"> Natural</h3>
+		<p>Lorem gift of nature. Hollistic approach. Nordic Muji delightful anim uniforms punctual ad. Vibrant dolor iconic, cosy impeccable Gaggenau ANA aute eclectic nostrud sleepy bureaux incididunt fugiat ex. </p>
+	</article>
+
+	<article>
+		<h3 class="unique-feature">Unique</h3>
+		<p>totally unique, totally working and totally not a fake product. Ignore the squirrels, you'll never catch them anyway mewl for food at 4am curl up and sleep on the freshly laundered towels friends are not food sleep nap hack up furballs.</p> </article>
+
+	<article>
+		<h3 class="quick-feature">Quick</h3>
+		<p>Faster than the speed of light. This human feeds me, i should be a god lay on arms while you're using the keyboard mark territory, yet hide from vacuum cleaner give me attention or face the wrath of my claws. </p></article>
+</section>
+
+
+<section class="treatments-section">
+	<h2 id="treatments">Target areas</h2>
+	<article>
+		<h3>Relieve Anxiety</h3>
+		<p>Decide to want nothing to do with my owner today. Meow loudly just to annoy owners mrow drool for russian blue, eat the fat cats food human give me attention meow scratch the postman wake up lick paw wake up owner meow meow.</p>
+	</article>
+	<article>
+		<h3>Regulate Blood pressure</h3>
+		<p> Make muffins purr for no reason and attack feet. Jump around on couch, meow constantly until given food, meowwww purr yet push your water glass on the floor. Crash against wall but walk away like nothing happened</p>
+	</article>
+	<article>
+		<h3>Lose weight</h3>
+		<p>Present belly, scratch hand when stroked always hungry and jump five feet high and sideways when a shadow moves or need to chase tail this cat happen now, it was too purr-fect!!!.  </p>
+	</article>	
+	<article>
+		<h3>Strenghten immunity</h3>
+		<p>Human is washing you why halp oh the horror flee scratch hiss bite cat snacks favor packaging over toy. Sun bathe refuse to leave cardboard box. </p>
+	</article>	
+	<article>
+		<h3>prevent cancer</h3>
+		<p> Knock over christmas tree cough furball or rub face on owner ears back wide eyed stare at ceiling light always hungry and catch mouse and gave it as a present. </p>
+	</article>
+</section>
+
+
+<section class="reviews-section">
+	<h2 id="reviews">Our clients talk about us</h2>
+	<!-- paklausyti apie sectiona, kaip daryti, kad reviewsai slidintu -->
+</section>
+
+
+<!-- !!!!check labels -->
+<section class="form-section">
+	<div class="form-picture">
+<h2 id="contact">Contact Us</h2>
+<p>Interested? Write us and the Golden pill will be delivered to you</p>
+
+<form class="form-contact" action="#" method="post">
+	<div class="wraper">
+<input type="text" name="name" placeholder="Name*" required="required">
+<input type="email" name="e-mail" placeholder="E-mail*" required="required">
+<input type="text" name="subject" placeholder="Subject">
+<textarea name="message" placeholder="Message*" required="required"></textarea>
+<input type="submit" value="Send message">
+</div>
+</form>
+</div>
+</section>
+
+
+<footer>
+	<ul>
+		<li><p>&copy; 2017</p></li>
+		<li><a href="#" target="_blank">fb</a></li>
+		<li><a href="#" target="_blank">google+</a></li>
+		<li><a href="#" target="_blank">twitter</a></li>
+
+	</ul>
+</footer>
+<!-- <script type="text/javascript" src="indexiukas.js"></script> -->
+</body>
+</html>
